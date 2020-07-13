@@ -593,7 +593,7 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
   position: relative;
   background-color: red; }
-  @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em), only screen and (min-width: 125em) {
+  @media only screen and (min-resolution: 192dpi) and (min-width: 125em),  {
     .head {
       background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(62, 190, 147, 0.8)), url(../img/hero.jpg); } }
   @media only screen and (max-width: 56.25em) {
